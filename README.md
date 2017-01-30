@@ -4,9 +4,9 @@
 ## Prerequisites
 * [Apple Developer Account](https://developer.apple.com/)
 * [Sign up for Apple Developer Program](https://developer.apple.com/account/#/membership/)
-* **Screenshots**. You can generate these using the simulator and Command+S to take a screenshot. 
-  * **REQUIRED** one iPad Pro screenshot 
-  * **REQUIRED** one iPhone 7 Plus screenshot 
+* **Screenshots**. You can generate these using the Simulator and Command+S to take a screenshot. 
+  * **REQUIRED** one iPad Pro screenshot.
+  * **REQUIRED** one iPhone 7 Plus screenshot. 
   * These are the highest resolutions for iPad and iPhone.
 * **1024px X 1024px Image** (your App Icon).
 * Add App Icons to your project.
@@ -53,11 +53,18 @@
 * Select Certificate. Continue.
 * Create Profile Name. Generate.
 * Download Provisioning Profile and remember where it is.
+
+## iTunes Connect
 * Go to [iTunes Connect](https://itunesconnect.apple.com/). 
 * Go to My Apps.
 * Click the plus button to create a "New iOS App".
-* **Name field is permanent after submission. Pick what you want carefully.** 
-* Create a name. Select English. Select your Bundle ID. Version 1.0. SKU is a unique ID (you pick it). e.g. TicTacToe0.1
+* Select iOS Checkbox.
+* **Name field for your New App is permanent after submission. Pick what you want carefully.** 
+* Select English for "Primary Language". 
+* Select your Bundle ID. 
+* SKU is a unique ID (you pick it). e.g. NameOfApp0.1
+* Click Create
+## iTunes Connect App Information
 * Name is required. Description is required. Keywords are required. 
 * Support URL is required (your website or github). Private Policy URL is required (same link).
 * Copyright (your business name) required.
