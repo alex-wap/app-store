@@ -13,7 +13,7 @@
   * Open assets folder in your project.
   * Use a Mac App [Prepo](https://itunes.apple.com/us/app/prepo/id476533227?mt=12) or make your own icons. 
   * **WARNING**, do not have duplicate icons (exact same size, but different name). **DOUBLE CHECK ACTUAL SIZE OF ICONS AND DELETE DUPLICATES**
-  * Bare minimum sizes for App Icons (in pixels):
+  * Bare minimum 19 sizes for App Icons (in pixels):
     * 20x20
     * 29x29
     * 40x40 
