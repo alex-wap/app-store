@@ -11,7 +11,7 @@
 * Log into Apple Developer Account
 * Go to Certificates, Identifiers & Profiles
 * Click Identifiers - App IDs - Create new App ID (plus button top right)
-![new app id](https://github.com/alex-wap/1.png "App IDs")
+![new app id](https://github.com/alex-wap/app-store/blob/master/images/1.png "App IDs")
 
 2.
 
