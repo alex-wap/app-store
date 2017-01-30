@@ -4,7 +4,10 @@
 ## Prerequisites
 * [Apple Developer Account](https://developer.apple.com/)
 * [Sign up for Apple Developer Program](https://developer.apple.com/account/#/membership/)
-* **Screenshots**. You can generate these using the simulator and Command+S to take a screenshot. The bare minimum is one iPad Pro screenshot and one iPhone 7 Plus screenshot (highest resolutions for iPad and iPhone).
+* **Screenshots**. You can generate these using the simulator and Command+S to take a screenshot. 
+  * **REQUIRED** one iPad Pro screenshot 
+  * **REQUIRED** one iPhone 7 Plus screenshot 
+  * These are the highest resolutions for iPad and iPhone.
 * **1024px X 1024px Image** (your App Icon).
 * Add App Icons to your project.
   * Go to Project - General - App Icons and Launch Images - App Icons Scource.
