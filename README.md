@@ -1,4 +1,4 @@
-# Apple App Store Submission Tutorial
+# How-to Guide for Apple App Store Submittal
 
 
 ## Prerequisites
