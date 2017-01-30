@@ -4,8 +4,8 @@
 ## Prerequisites
 * [Apple Developer Account](https://developer.apple.com/)
 * [Sign up for Apple Developer Program](https://developer.apple.com/account/#/membership/)
-* Screenshots. You can generate these using the simulator and Command+S to take a screenshot. The bare minimum is one iPad Pro screenshot and one iPhone 7 Plus screenshot (highest resolutions for iPad and iPhone).
-* 1024px X 1024px Image (your App Icon).
+* **Screenshots**. You can generate these using the simulator and Command+S to take a screenshot. The bare minimum is one iPad Pro screenshot and one iPhone 7 Plus screenshot (highest resolutions for iPad and iPhone).
+* **1024px X 1024px Image** (your App Icon).
 * Add App Icons to your project.
   * Go to Project - General - App Icons and Launch Images - App Icons Scource.
   ![app icons](https://github.com/alex-wap/app-store/blob/master/images/0.png "app icons")
@@ -13,6 +13,26 @@
   * Open assets folder in your project.
   * Use a Mac App [Prepo](https://itunes.apple.com/us/app/prepo/id476533227?mt=12) or make your own icons. 
   * **WARNING**, do not have duplicate icons (exact same size, but different name). **DOUBLE CHECK ACTUAL SIZE OF ICONS AND DELETE DUPLICATES**
+  * Bare minimum sizes for App Icons (in pixels):
+    * 20x20
+    * 29x29
+    * 40x40 
+    * 57x57
+    * 50x50
+    * 58x58
+    * 60x60 
+    * 72x72
+    * 76x76
+    * 80x80
+    * 83.5x83.5
+    * 87x87
+    * 100x100
+    * 114x114
+    * 120x120
+    * 144x144
+    * 152x152
+    * 167x167
+    * 180x180
   * Drag and drop your icons from the Finder into the assets folder in Xcode
 * Have your project open in Xcode. 
 
@@ -25,7 +45,7 @@
 * Continue. Submit.
 * Click Provisioning Profiles - Distribution - Create new Provisioning Profile
 ![Provisioning Profile](https://github.com/alex-wap/app-store/blob/master/images/2.png "Provisioning Profile")
-* Select *Distribution - App Store*. Continue.
+* Select **Distribution - App Store**. Continue.
 * Select your App ID from the list. Continue.
 * Select Certificate. Continue.
 * Create Profile Name. Generate.
