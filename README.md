@@ -12,7 +12,7 @@
   * Use Asset Catalog or create a new one.
   * Open assets folder in your project.
   * Use a Mac App [Prepo](https://itunes.apple.com/us/app/prepo/id476533227?mt=12) or make your own icons. 
-  * **WARNING**, do not have duplicate icons (exact same size, but different name). **DOUBLE CHECK AND DELETE DUPLICATES**
+  * **WARNING**, do not have duplicate icons (exact same size, but different name). **DOUBLE CHECK ACTUAL SIZE OF ICONS AND DELETE DUPLICATES**
   * Drag and drop your icons from the Finder into the assets folder in Xcode
 * Have your project open in Xcode. 
 
