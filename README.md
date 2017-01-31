@@ -1,5 +1,22 @@
 # How-to Guide for Apple App Store Submittal
 
+## Overview of Process
+1. Prerequisites
+  * We need to create developer accounts and sign up for the Apple Developer Program for app submission to the store.
+  * Screenshots are required for app submission so users can preview what the app looks like.
+  * Mutiple app icons are required for app submission to use on different devices. 
+2. [Apple Developer Account](https://developer.apple.com/)
+  * We need to create an App ID to reference our app.
+  * We need to create a provisioning profile to install apps on iOS devices. It's used by Apple for security/identity purposes.
+3. [iTunes Connect](https://itunesconnect.apple.com/)
+  * We provide important information for our app using iTunes Connect such as Name and Description.
+4. Xcode
+  * We need to archive our app to submit it as part of Apple's reviewing process.
+  * Once our archive is validated, we upload it to the App Store.
+5. [iTunes Connect](https://itunesconnect.apple.com/)
+  * We need to connect the app we uploaded from Xcode with the app we configured in iTunes Connect.
+6. Submit for Review.
+
 
 ## Prerequisites
 * [Apple Developer Account](https://developer.apple.com/)
@@ -56,8 +73,8 @@
 * Create Profile Name. Continue.
 * Download Provisioning Profile and remember where it is.
 
-## iTunes Connect
-* Go to [iTunes Connect](https://itunesconnect.apple.com/). 
+## [iTunes Connect](https://itunesconnect.apple.com/)
+* Go to [iTunes Connect](https://itunesconnect.apple.com/).
 * Go to My Apps.
 * Click the plus button to create a "New iOS App".
 * Select iOS Checkbox.
@@ -113,7 +130,7 @@
 * Click Validate. Choose Development Team. Loading Screen. Click Validate again.
 * Wait for "Validation Successful". (long wait) Click Done.
   * Most errors will occur at this stage. Read the error messages and check Stack Overflow for solutions if they are not obvious.
-* Click "Uplaod to App Store...". Select your Development Team. Click Choose.
+* Click "Upload to App Store...". Select your Development Team. Click Choose.
 * Click Upload. (long wait)
 * Switch back to [iTunes Connect](https://itunesconnect.apple.com/).
 
@@ -130,7 +147,7 @@
 * Select "No" for Advertising Identifier.
 * Click Submit.
 
-## Congratulations!
+## Congratulations! You have submitted your app for review.
 * App is now "Waiting For Review". 
   * The next stages are:
   * "Preparing for Review"
@@ -144,7 +161,7 @@
 **Coming Soon**
 
 
-## Alternative Video
+## Alternate Video
 
 
 [Slightly Outdated - Jared Davidson - Submitting an App to the iOS App Store](https://www.youtube.com/watch?v=6uX7B8ZfMiw)
