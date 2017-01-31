@@ -38,7 +38,7 @@
     * 180x180
   * Drag and drop your icons from the Finder into the assets folder in Xcode. **if your icons are in "CarPlay", move them to iPhone App 60pt.**
   * Your AppIcon layout should look like the screenshot below:
-  ADD SCREENSHOT
+  ![appicon page](https://github.com/alex-wap/app-store/blob/master/images/appicon.png "appicon page")
 * Have your project open in Xcode. 
 
 ## Instructions
@@ -71,7 +71,7 @@
 * Category is required.
 * Click Save (top right corner)
 * Click Yellow "1.0 Prepare for Submission" on the left sidebar.
-INSERT SCREENSHOT HERE
+![Prepare for Submission](https://github.com/alex-wap/app-store/blob/master/images/prepareforsubmission.png "Prepare for Submission")
 
 ## iOS App 1.0 Prepare for Submission
 * Choose File > Your iPhone screenshot from the prerequisite section. 
@@ -147,4 +147,4 @@ INSERT SCREENSHOT HERE
 ## Alternative Video
 
 
-[Jared Davidson - Submitting an App to the iOS App Store](https://www.youtube.com/watch?v=6uX7B8ZfMiw)
+[Slightly Outdated - Jared Davidson - Submitting an App to the iOS App Store](https://www.youtube.com/watch?v=6uX7B8ZfMiw)
