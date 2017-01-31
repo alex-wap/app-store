@@ -36,7 +36,9 @@
     * 152x152
     * 167x167
     * 180x180
-  * Drag and drop your icons from the Finder into the assets folder in Xcode
+  * Drag and drop your icons from the Finder into the assets folder in Xcode. **if your icons are in "CarPlay", move them to iPhone App 60pt.**
+  * Your AppIcon layout should look like the screenshot below:
+  ADD SCREENSHOT
 * Have your project open in Xcode. 
 
 ## Instructions
@@ -111,9 +113,11 @@ INSERT SCREENSHOT HERE
 * Click Validate. Choose Development Team. Loading Screen. Click Validate again.
 * Wait for "Validation Successful". (long wait) Click Done.
   * Most errors will occur at this stage. Read the error messages and check Stack Overflow for solutions if they are not obvious.
-* Click "Submit...". Select your Development Team. Click Choose.
-* Click Submit. (long wait)
+* Click "Uplaod to App Store...". Select your Development Team. Click Choose.
+* Click Upload. (long wait)
 * Switch back to [iTunes Connect](https://itunesconnect.apple.com/).
+
+## [iTunes Connect](https://itunesconnect.apple.com/).
 * Click Save. Reload the iTunes Connect page.
 * Your build may take several minutes to process before it will show up on the page.
 * Go to Build (plus button). Add Build. Click Done.
