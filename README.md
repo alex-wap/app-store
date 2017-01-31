@@ -45,13 +45,13 @@
 * Click Identifiers - App IDs - Create new App ID (plus button top right)
 ![new app id](https://github.com/alex-wap/app-store/blob/master/images/1.png "App IDs")
 * App ID Description can be anything. Under "Explicit App ID", **you must match your "Bundle ID" in Xcode.**
-* Continue. Submit.
+* Continue. Register.
 * Click Provisioning Profiles - Distribution - Create new Provisioning Profile
 ![Provisioning Profile](https://github.com/alex-wap/app-store/blob/master/images/2.png "Provisioning Profile")
 * Select **Distribution - App Store**. Continue.
 * Select your App ID from the list. Continue.
 * Select Certificate. Continue.
-* Create Profile Name. Generate.
+* Create Profile Name. Continue.
 * Download Provisioning Profile and remember where it is.
 
 ## iTunes Connect
@@ -64,6 +64,7 @@
 * Select your Bundle ID. 
 * SKU is a unique ID (you pick it). e.g. NameOfApp0.1
 * Click Create
+
 ## iTunes Connect App Information
 * Name is required. Description is required. Keywords are required. 
 * Support URL is required (your website or github). Private Policy URL is required (same link).
