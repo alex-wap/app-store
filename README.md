@@ -117,13 +117,20 @@ INSERT SCREENSHOT HERE
 * Click Upload. (long wait)
 * Switch back to [iTunes Connect](https://itunesconnect.apple.com/).
 
-## [iTunes Connect](https://itunesconnect.apple.com/).
-* Click Save. Reload the iTunes Connect page.
-* Your build may take several minutes to process before it will show up on the page.
-* Go to Build (plus button). Add Build. Click Done.
+## [iTunes Connect](https://itunesconnect.apple.com/)
+* Reload the iTunes Connect page showing your app.
+* Your build may take several minutes to process before it will be available on the page.
+* Scroll down to "Build" and the plus icon will show up next to "Build". Wait and refresh the page if it is not there yet.
+* Click the plus button. Add Build. Click Done.
 * Save. Submit for Review. Follow instructions if you're missing information.
-* Fill out information. "No" Export Compliance, "No" Content Rights, "No" Advertising Identifier.
+
+## Export Compliance, Content Rights, and Advertising Identifier
+* Select "No" for Export Compliance
+* Select "No" for Content Rights
+* Select "No" for Advertising Identifier.
 * Click Submit.
+
+## Congratulations!
 * App is now "Waiting For Review". 
   * The next stages are:
   * "Preparing for Review"
